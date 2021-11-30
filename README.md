@@ -12,7 +12,7 @@
 
 
 
-- 🔭 Mi ultimo proyecto es [PI-FOOD](https://github.com/ThestalkerN-byte/PI-food)
+- 🔭 Mi ultima participacion en un proyecto grupal es [Drops (e commerce](https://github.com/Slystore/Drops)
 - 💬 Preguntame sobre: Cualquier cosa jeje
 - 📫 Como contactarme: germicampo@gmail.com  o mi [linkedin](https://www.linkedin.com/in/german-campodonico-/)
 - ⚡ Diversion: Me gusta entrenar, jugar videojuegos y juntarme con mis amigos 
