@@ -1,6 +1,6 @@
 ### HI THERE!!! I'M German Campodonico 👋
 
- Hi there! I am a Front End Developer and Mobile Developer looking for opportunities to continue learning and grow as a professional.
+ I am a Front End Developer and Mobile Developer looking for opportunities to continue learning and grow as a professional.
 My skills are:
 ❇️React Js | Redux | next
 ❇️React Native
