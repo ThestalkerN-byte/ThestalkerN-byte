@@ -1,19 +1,20 @@
-### Hola a todos!! Mi nombre es German Campodonico 👋
+### HI THERE!!! I'M German Campodonico 👋
 
-  ¿Quien soy?
- Soy un fullStackDeveloper y un gran apasionado del diseño en general. Me encanta generar soluciones a los problemas y crear nuevas cosas.
- 
-   Un poco de mi historia y sobre mi 🤞
-  - Desde chico que tengo un gran interés en el tema de las computadoras, siempre intente ir metiendome en cursos de programacion locales de mi pueblo 
-  y onlines. Pero no fue hasta mis 18 años que ingrese al bootcamp de HolaSoyHenry para meterme de lleno en el desarrolo web. Donde aprendi #React #Redux #HTML #CSS, #GIT, #Express y #PostgreSQL como tecnologias y son las que empleo actualmente para el desarrollo de apps.  
+ Hi there! I am a Front End Developer and Mobile Developer looking for opportunities to continue learning and grow as a professional.
+My skills are:
+❇️React Js | Redux | next
+❇️React Native
+❇️Typescript
+❇️JavaScript (ES6)
+❇️HTML
+❇️CSS
+❇️Node Js
+❇️PostgreSQL
+❇️Sequelize
+❇️Express Js
+❇️GIT
 
+I love to solve problems and learn more and more!
+Thanks for readme!
 
-
-
-
-
-- 🔭 Mi ultima participacion en un proyecto grupal es [Drops (e commerce](https://github.com/Slystore/Drops)
-- 💬 Preguntame sobre: Cualquier cosa jeje
-- 📫 Como contactarme: germicampo@gmail.com  o mi [linkedin](https://www.linkedin.com/in/german-campodonico-/)
-- ⚡ Diversion: Me gusta entrenar, jugar videojuegos y juntarme con mis amigos 
-
+mail:germicampo@gmail.com
