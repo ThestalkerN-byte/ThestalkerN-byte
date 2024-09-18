@@ -17,4 +17,3 @@ My skills are:
 I love to solve problems and learn more and more!
 Thanks for readme!
 
-mail:germicampo@gmail.com
